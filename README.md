@@ -1,2 +1,3 @@
 # college
-Content learned at university
+
+Content learned at university.
